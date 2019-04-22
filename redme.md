@@ -1,4 +1,1 @@
-
-nodo tekhraw 
-kolchi kin hna 
-diro git pull tel9aw kolahowa
+repo for the honor rise competitive programing training 
